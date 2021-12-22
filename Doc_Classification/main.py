@@ -1,7 +1,7 @@
 # -*- coding:utf-8 -*-
 # created by 데이터 응용개발팀 이지형
 
-from Doc_Classification import Doc_Classification
+import Doc_Classification
 
 if __name__ == '__main__':
 

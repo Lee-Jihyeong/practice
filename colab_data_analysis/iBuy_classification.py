@@ -3,7 +3,6 @@
 
 import pandas as pd
 import numpy as np
-
 from sklearn.preprocessing import StandardScaler, RobustScaler, MinMaxScaler, MaxAbsScaler
 from sklearn.svm import SVC
 from sklearn.pipeline import Pipeline
